@@ -1,3 +1,5 @@
+![logo](https://github.com/OsamaAbdulHafeez/OsamaAbdulHafeez/blob/main/usamabanner.jpg)
+
 <h1 align="center">Hi 👋, I'm Osama Hafeez</h1>
 <h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
 
