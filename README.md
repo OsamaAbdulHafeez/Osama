@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-- 🔭 I’m currently working on **Ambulance Service**
+- 🔭 I’m currently working on **Nubit Software pvt Ltd**
 
 - 🌱 I’m currently learning **React Native**
 
